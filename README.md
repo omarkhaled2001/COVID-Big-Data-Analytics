@@ -90,7 +90,7 @@ This project aims to analyze the mortality status of COVID-19 patients using big
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/omarkhaled2001/COVID-Big-Data-Analytics.git
    ```
 2. Install dependencies:
    ```bash
